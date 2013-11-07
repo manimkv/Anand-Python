@@ -1,0 +1,22 @@
+Automation is the application of Automatic devices or Logic to assist the operation of Canal Systems.
+Irrigation projects in Kerala are, in general, designed to serve the second (Oct-Dec) and third (Jan-Mar)
+crops. However, they are unable to serve the third crop fully due to non-availability of water and poor
+condition of canals. Automation of canals, through Centralized Control Algorithms, will result in
+savings of large quantities of water, which can be utilized for the third crop. Corresponding
+revenue that can be generated is approximately Rs 1000 crores. Kerala has a wide network of river,
+rivulets and springs spread over the entire cropped area. Out of the net cropped area of the state only 18
+percent is irrigated. The net area irrigated had declined from 3.99 lakh hectors during 2005-06 to 3.85
+lakh hectors in the year 2006-07. The major source of irrigation is wells (30 percent), government
+canals (26 percent), tanks (11 percent) and private canals (1.125 percent) respectively. Irrigation
+development in Kerala is mainly centered on the development of surface water resources through
+construction of major and minor irrigation projects. About 60 to 70 percent of the investment in each
+plan of the state was earmarked for major and medium irrigation. The overall water use efficiency of a
+manually operated system, exclusive of the use of any return flow, seldom exceeds 40 percent. It is
+reasonable to expect an increase of the overall efficiency of about 10 percent or more for a system
+with some automation. The advantages of automation are not limited to savings in operation cost and in
+water. It also alleviates the risk of water logging. A further advantage is that it increases the reliability
+and accuracy of water distribution. This contributes to the establishment of a climate of confidence
+between the operating authority and the farmers, which in turn contributes to the effective organization
+of water user groups and their participation in operation and maintenance activities.With automation, it
+may also be possible to accurately know the volume of water delivered to individuals or groups of
+farmers.

@@ -1,0 +1,12 @@
+In the present scenario of Irrigation , effective operation of the canals by minimizing wastage of water
+is the most important problem faced by the Engineers. This problem can be solved to a great extent by
+canalautomation. Automation of canals is achieved by means of canal control algorithms.
+Fuzzy Logic based canal control algorithm will be an efficient tool for calculating inflow discharge
+release needed to maintain target water levels in canals. To Solve thisCivil Engineering based problem,
+Computer Science Department can contribute towards development of a corresponding Control
+software , which will effectively do allthe calculations in minimum time.
+In India, the introduction of systems based on information technology for monitoring and
+controlling canal operations is necessary to improve water management not only at the operational
+level but also at the farm level. Upgrading existing canal system operations needs to be done in
+different stages. It can be done in small areas which are easily and economically assessable for
+improvement. The cost of canal automation on an existing irrigation project and that on a new project
