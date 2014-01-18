@@ -1,3 +1,3 @@
 Anand-Python
 ============
-These are the solutions to the problem in Python Practice Book wrote by Anand Chitipothu
+These are the solutions to the problems in Python Practice Book wrote by Anand Chitipothu
